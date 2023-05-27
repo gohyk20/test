@@ -1,2 +1,2 @@
-# test
-testing git
+# Name Guesser
+program that guesses names
